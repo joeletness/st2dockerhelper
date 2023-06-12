@@ -1,0 +1,7 @@
+---
+ref: st2dockerhelper
+name: st2dockerhelper
+description: Support pack to help streamline StackStorm custom pack development
+version: 1.0.0
+author: Joe Letness
+email: joe@letness.com
